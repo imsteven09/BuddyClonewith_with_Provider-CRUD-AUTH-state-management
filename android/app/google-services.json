@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591218284989",
+    "project_id": "buddyregistrationwithux",
+    "storage_bucket": "buddyregistrationwithux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591218284989:android:81119ec047d8c5c7f55ad4",
+        "android_client_info": {
+          "package_name": "com.example.buddysigninwithui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591218284989-in65kkf10327gp9dk3bmamtjcm1mr957.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2yzoDUyovWFhCLiNy47jFEf0N0aB2Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591218284989-in65kkf10327gp9dk3bmamtjcm1mr957.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
